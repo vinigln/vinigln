@@ -9,7 +9,6 @@
 <a href="https://github.com/vinigln">
 <img height="100em" src="https://github-readme-stats.vercel.app/api?username=vinigln&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
 <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinigln&theme=tokyonight"
-<a href="https://app.daily.dev/vinigln"><img src="https://api.daily.dev/devcards/15d1d7015dd64d83b00eec6179e48380.png?r=w0e" width="200" alt="Vinicius Dourado's Dev Card"/></a>
 </div>
   
  <hr>
